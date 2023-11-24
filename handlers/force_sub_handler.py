@@ -61,7 +61,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Join [Main Channel](https://t.me/movierulz).",
+            text="Join [Main Channel](https://t.me/movierulzking).",
             disable_web_page_preview=True
         )
         return 200
