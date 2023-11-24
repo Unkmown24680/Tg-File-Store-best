@@ -52,4 +52,6 @@ How to Use Bot??
 
 📢 Send me any File & It will be uploaded in My Database & You will Get the File Link.
 
+I can also work in channel Just add me in your channel as admin.
+
 """
