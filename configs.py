@@ -7,7 +7,7 @@ class Config(object):
 	API_ID = int(os.environ.get("API_ID", "23576751"))
 	API_HASH = os.environ.get("API_HASH", "5224da0df5c60ec53de09ce79b9aa2c3")
 	BOT_TOKEN = os.environ.get("BOT_TOKEN","6943972205:AAEVgI7yUdPuNieqe6OLPUvIvDegAVTFN1c")
-	BOT_USERNAME = os.environ.get("BOT_USERNAME","http://t.me/file_store_bmw_bot")
+	BOT_USERNAME = os.environ.get("BOT_USERNAME","file_store_bmw_bot")
 	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001960613454"))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "1720819569"))
 	DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://dohoj11515:f5VibAbQ4LVHpQ5n@cluster0.h3s7s7p.mongodb.net/?retryWrites=true&w=majority")
